@@ -5,6 +5,10 @@ body{
   line-height:30px;
   box-sizing: border-box;
 } 
+.body3{
+ margin-left:5%;
+ margin-right:5%;
+} 
 aside {
   float:left;
   width:220px;
